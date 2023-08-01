@@ -16,8 +16,8 @@
     - [x] [Declaring wires](./2%20Verilog%20Language/1%20Basics/wire_decl.v)
     - [x] [7458 chip](./2%20Verilog%20Language/1%20Basics/7458.v)
   - Vectors
-    - [ ] [Vectors](./2%20Verilog%20Language/2%20Vectors/vector0.v)
+    - [x] [Vectors](./2%20Verilog%20Language/2%20Vectors/vector0.v)
     - [ ] [Vectors in more detail](./2%20Verilog%20Language/2%20Vectors/vector1.v)
     - [ ] [Vector part select](./2%20Verilog%20Language/2%20Vectors/vector2.v)
-    - [ ] Bitwise operators
+    - [ ] [Bitwise operators](./2%20Verilog%20Language/2%20Vectors/vectorgates.v)
     - [ ] Four-input gates
