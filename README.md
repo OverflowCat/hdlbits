@@ -14,10 +14,10 @@
     - [x] [NOR gate](./2%20Verilog%20Language/1%20Basics/norgate.v)
     - [x] [XNOR gate](./2%20Verilog%20Language/1%20Basics/xnorgate.v)
     - [x] [Declaring wires](./2%20Verilog%20Language/1%20Basics/wire_decl.v)
-    - [x] [O7458 chip](./2%20Verilog%20Language/1%20Basics/7458.v)
+    - [x] [7458 chip](./2%20Verilog%20Language/1%20Basics/7458.v)
   - Vectors
-    - [ ] Vectors
-    - [ ] Vectors in more detail
-    - [ ] Vector part select
+    - [ ] [Vectors](./2%20Verilog%20Language/2%20Vectors/vector0.v)
+    - [ ] [Vectors in more detail](./2%20Verilog%20Language/2%20Vectors/vector1.v)
+    - [ ] [Vector part select](./2%20Verilog%20Language/2%20Vectors/vector2.v)
     - [ ] Bitwise operators
     - [ ] Four-input gates
